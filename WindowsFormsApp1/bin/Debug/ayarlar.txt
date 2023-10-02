@@ -1,0 +1,4 @@
+C:\Users\(windows kullanıcı adınız)\AppData\Local\Google\Chrome\User Data\
+//chrome profil yolunu buraya yazınız
+// bu yol genelde aynıdır üst taraftaki yolda parantez içindeki yere windows kullanıcı adınızı yazınız.parantezleri siliniz
+//C:\Users\sakarya\AppData\Local\Google\Chrome\User Data\Profile 7
